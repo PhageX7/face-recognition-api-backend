@@ -1,0 +1,20 @@
+{
+  "name": "facerecognition-api",
+  "version": "1.0.0",
+  "description": "face-brain-api backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhageX7/face-recognition-api-backend.git"
+  },
+  "author": "Gman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhageX7/face-recognition-api-backend/issues"
+  },
+  "homepage": "https://github.com/PhageX7/face-recognition-api-backend#readme"
+}
